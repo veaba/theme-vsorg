@@ -8,9 +8,9 @@ Vsorg For Wordpress Theme
 # 工作
     配合小组提出的创建VS2015中文社区工作，目前，计划在制定中。分小组负责不同的工作：
     1、网站社区构筑
-　　2、页面优化测试
-　　3、国外精彩VS2015教程翻译
-　　4、并因时而异的发布基础的VS2015开发入门教程。
+    2、页面优化测试
+    3、国外精彩VS2015教程翻译
+    4、并因时而异的发布基础的VS2015开发入门教程。
 
 # 简介
 （完全手误，项目简介写成了 IT小说，字数超一万字，准备VIP章节收费[滑稽] by Jogel）
@@ -47,13 +47,13 @@ Vsorg For Wordpress Theme
     6、（Joge 6月中旬找工作，Balabal，要停留一段时间）
   
 # 联系
-1、Jogel：
-    微博@叶箫大人(http://weibo.com/Naruzi) 
-    Email@：908662421@qq.com
-    叶箫个人博客@：https://www.admingod.com
-2、End  ：
-    知乎@冷颖鑫(https://www.zhihu.com/people/leng-ying-xin)
-3、VSORG网站：http://www.vsorg.org  （6月中旬备案中）
+    1、Jogel：
+微博@叶箫大人(http://weibo.com/Naruzi) 
+Email@：908662421@qq.com
+叶箫个人博客@：https://www.admingod.com
+    2、End  ：
+知乎@冷颖鑫(https://www.zhihu.com/people/leng-ying-xin)
+    3、VSORG网站：http://www.vsorg.org  （6月中旬备案中）
   
 # 需求
     1、2-3名php工程师（无论新手与否，但有学习半年的基础）
