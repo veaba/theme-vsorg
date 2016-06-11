@@ -14,10 +14,10 @@ Vsorg For Wordpress Theme
 　　4、并因时而异的发布基础的VS2015开发入门教程。
 
 # 简介（完全手误，项目简介写成了 IT小说，字数超一万字，准备VIP章节收费[滑稽] by Jogel）
-    Jogel 作为一名混迹百度贴吧多年的IT开发者，在经过长达将近一年的时间驻留在百度贴吧[VS2015]的经历,帮助
-    和服务上万用户（包括下载用户）。
-    使得他明确自己的能够理想所及的情况下，希望更方便更快捷帮助与更多的Microsoft Visual Studio IDE的新用
-    户入门IT编程。
+    Jogel 作为一名混迹百度贴吧多年的IT开发者，在经过长达将近一年的时间驻留在百度贴吧[VS2015]的
+    经历,帮助和服务上万用户（包括下载用户）。
+    使得他明确自己的能够理想所及的情况下，希望更方便更快捷帮助与更多的Microsoft Visual Studio IDE
+    的新用户入门IT编程。
     为此，在6月份，他在百度贴吧[VS2015吧]发布了成立团队的公告（http://tieba.baidu.com/p/4580845844），并
     得到了部分IT开发者的热情参与。
     
@@ -46,9 +46,13 @@ Vsorg For Wordpress Theme
     6、（Joge 6月中旬找工作，Balabal，要停留一段时间）
   
 # 联系
-    1、Jogel：微博@叶箫大人(http://weibo.com/Naruzi) 、 Email@：908662421@qq.com、叶箫个人博客@：https://www.admingod.com
-    2、End  ：知乎@冷颖鑫(https://www.zhihu.com/people/leng-ying-xin)
-    3、VSORG网站：http://www.vsorg.org（6月中旬备案中，暂时无法正常访问）
+1、Jogel：
+    微博@叶箫大人(http://weibo.com/Naruzi) 
+    Email@：908662421@qq.com
+    叶箫个人博客@：https://www.admingod.com
+2、End  ：
+    知乎@冷颖鑫(https://www.zhihu.com/people/leng-ying-xin)
+3、VSORG网站：http://www.vsorg.org（6月中旬备案中，暂时无法正常访问）
   
 # 需求
 　  1、2-3名php工程师（无论新手与否，但有学习半年的基础）
@@ -58,10 +62,11 @@ Vsorg For Wordpress Theme
 　
 # 门槛
     1、具备已经有一定的IT技术，初步摸到某一编程语言/IT技术入门门槛以上。
-    2、某一编程语言/技术，达到一定程度，比如C语言能够写带几十行，能够实现简单的几个功能了的，需要加入我们
-    团队，学习和开发其他VS相关的技术。
+    2、某一编程语言/技术，达到一定程度，比如C语言能够写带几十行，能够实现简单的几个功能了
+    的，需要加入我们团队，学习和开发其他VS相关的技术。
     3、对编程、IT技术有足够狂热和开发研究精神的。
-    4、我们很想帮助更多想学习以Visual     Studio（微索思丢丢）为核心的IT编程语言/技术的新手开发者，但并不意味我们会接纳新手开发者直接作为我们VSORG开发
+    4、我们很想帮助更多想学习以Visual     Studio（微索思丢丢）为核心的IT编程语言/技术的新手开发者，但并不意味我们会接纳新手开发者
+    直接作为我们VSORG开发
     团队的成员之一。新手开发者是我们服务的对象，但并不能说是我们VSORG开发团队的。
     5、我们需要面向C、C++、Python、Java、PHP、Javascript、Linux等的开发者参与进来。
   
