@@ -15,17 +15,17 @@ Vsorg For Wordpress Theme
 # 简介
 （完全手误，项目简介写成了 IT小说，字数超一万字，准备VIP章节收费[滑稽] by Jogel）
 
-    Jogel 作为一名混迹百度贴吧多年的IT开发者，在经过长达将近一年的时间驻留在百度贴吧[VS2015]的
+        Jogel 作为一名混迹百度贴吧多年的IT开发者，在经过长达将近一年的时间驻留在百度贴吧[VS2015]的
     经历,帮助和服务上万用户（包括下载用户）。
     使得他明确自己的能够理想所及的情况下，希望更方便更快捷帮助与更多的Microsoft Visual Studio IDE
     的新用户入门IT编程。
     为此，在6月份，他在百度贴吧[VS2015吧]发布了成立团队的公告（http://tieba.baidu.com/p/4580845844），并
     得到了部分IT开发者的热情参与。
     
-    VSORG网站使用基于Wordpress 驱动并由 Jogel 与 End 完成界面的搭建，由Jogel 负责网站设计和上线调试。
+        VSORG网站使用基于Wordpress 驱动并由 Jogel 与 End 完成界面的搭建，由Jogel 负责网站设计和上线调试。
     End 提供技术支持，完善和重写Jogel 早先个人博客（叶箫大人 https://www.admingod.com）主题。
     
-    2016.6.11晚，End 对 Jogel说“网站的源码是不是放进github。现在东西少。多了就乱套了”，为此，Jogel同意他的
+        2016.6.11晚，End 对 Jogel说“网站的源码是不是放进github。现在东西少。多了就乱套了”，为此，Jogel同意他的
     说法，支持VSORG 网站的源码上传到Github。
     
 # 架构
@@ -53,7 +53,8 @@ Email@：908662421@qq.com
 叶箫个人博客@：https://www.admingod.com
     2、End  ：
 知乎@冷颖鑫(https://www.zhihu.com/people/leng-ying-xin)
-    3、VSORG网站：http://www.vsorg.org  （6月中旬备案中）
+3、VSORG网站：
+    http://www.vsorg.org  （6月中旬备案中）
   
 # 需求
     1、2-3名php工程师（无论新手与否，但有学习半年的基础）
