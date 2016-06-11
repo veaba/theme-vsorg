@@ -55,14 +55,19 @@
 # 联系
 
     1、Jogel：
+
 微博@叶箫大人(http://weibo.com/Naruzi) 
+
 Email@：908662421@qq.com
+            
 叶箫个人博客@：https://www.admingod.com
 
     2、End  ：
+    
 知乎@冷颖鑫(https://www.zhihu.com/people/leng-ying-xin)
 
     3、VSORG网站：
+    
 http://www.vsorg.org  （6月中旬备案中）
   
 # 需求
